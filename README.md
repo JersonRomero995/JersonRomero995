@@ -5,7 +5,8 @@
 Technical support and troubleshooting of virtualized infrastructure
 Enterprise virtualization environment management
 
-🎯 Current Focus
+🎯 Current Focus:
+
 
 🔭 Building automation tools for vSphere and AWS
 
@@ -15,7 +16,9 @@ Enterprise virtualization environment management
 
 💡 Transforming my support experience into programmatic solutions
 
+
 📫 How to reach me: jersoncloud25@gmail.com
+
 
 🌍 Location: San José, Costa Rica
 
@@ -23,25 +26,29 @@ Enterprise virtualization environment management
 
 💪 Professional Experience (4+ years)
 
-vSphere
+-vSphere
 
-vCenter
+-vCenter
 
-ESXI hosts
+-ESXI hosts
 
-NSX T
+-NSX T
 
 🌱 Actively Learning
 
-Python
+-Python
 
-AWS
+-AWS
 
 🔧 DevOps Tools (learning)
-Aria orchestrator
-BASH
-Power shell
-Ansible
+
+-Aria orchestrator
+
+-BASH
+
+-Power shell
+
+-Ansible
 
 🎯 Featured Projects
 In progress
