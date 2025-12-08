@@ -16,7 +16,6 @@ Enterprise virtualization environment management
 
 💡 Transforming my support experience into programmatic solutions
 
-
 📫 How to reach me: jersoncloud25@gmail.com
 
 
