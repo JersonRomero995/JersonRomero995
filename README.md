@@ -8,9 +8,9 @@ Enterprise virtualization environment management
 🎯 Current Focus:
 
 
-🔭 Building automation tools for vSphere and AWS
+🔭 Building automation tools for vSphere and Azure
 
-🌱 Learning Python and AWS for DevOps
+🌱 Learning Python and Azure for DevOps
 
 🛠️ Creating projects that automate daily operational tasks
 
@@ -37,7 +37,7 @@ Enterprise virtualization environment management
 
 -Python
 
--AWS
+-Azure
 
 🔧 DevOps Tools (learning)
 
